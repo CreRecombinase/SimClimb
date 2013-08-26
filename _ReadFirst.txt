@@ -1,0 +1,1 @@
+This folder should only contain the most current files necessary for running the model, including the R files.
